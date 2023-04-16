@@ -20,3 +20,6 @@ SEGUE ABAIXO ESQUEMA DE LIGAÇÃO (DIAGRAMA ELETRÔNICO)
 </p>
 
 <img src="05.JPG" alt="diagram" width="480" height="300">
+
+
+### OBS:Não esqueça de instalar as bibliotecas necessárias
