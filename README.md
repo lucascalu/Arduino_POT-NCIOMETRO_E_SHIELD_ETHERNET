@@ -5,7 +5,7 @@
 
 <P>Através do uso do shield ethernet e um simples potênciometro é possível criar um web server para realizar medidas </P>
 
-<img src="00.JPG" alt="stage2" width="480" height="300">
+<img src="00.jpeg" alt="stage2" width="480" height="300">
 
 <img src="04.JPG" alt="stage2" width="480" height="300">
 
